@@ -1,0 +1,35 @@
+cd
+pwd
+ls
+ls -la (details)
+man(lunix, mac)/--help
+touch filenam.extensionname
+mkdir foldername
+mv ရွေ့ ချင်တဲ့ ဖိုင် ရွေ့ ချင်တဲ့ ဖိုဒါ ပေး (cut လုပ်ပြီး ရွေ့ တာ)
+cd .. (2ခါဆို cd ../..)
+cp copy ကူးချင်တဲ့ ဖိုင်  copy ကူးတာ ထားမည့် ဖိုဒါ
+rm file name(file delete)
+rm -r folder name(folder delete)
+vim filename( file editor)
+i (insert mode)
+Esc(mode change)
+quite and save (:wq or :x)
+cat filename(watch file content)
+head less tail, tail -f(ပြောင်းနေတဲ့ စာတွေ တောက်လျောက်ပြနေ)
+
+-- rw- r-- r--
+
+d rwx(user) r-x(group) r-x(other user)
+
+0 - no permission
+1-x(can execute)
+2- w (can write)
+3- 1+2( (wx)
+4- r (can read)
+5- 1+4 (rx)
+6- 2+4 (rw)
+7- 4+2+1(rwx) 
+
+sudo chmod -R 744
+
+-- rwx r-- r--

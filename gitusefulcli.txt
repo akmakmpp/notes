@@ -1,0 +1,17 @@
+git add .
+git commit -m "something"
+git reset .
+git remote -v
+git push origin master
+git log
+git checkout -b branchname(branch ခွဲ)
+git branch
+git checkout master (master ထဲ ပြန်သွား)
+git checkout
+git merge branchname
+git stash (git pull error မတက်အောင် အိတ်တစ်လုံးထဲ ခဏထည့်)
+git pull ပီးတာနဲ့  git stash apply နဲ့ ပြန်ထုတ်  ပီးမှ conflict ပြန်ရှင်း
+
+branch ဖျတ်ချင်ရင် အရင်ဆုံးဖျတ်ချင်တဲ့ branch မဟုတ်တာကို အရင်ပြောင်း
+ပီးရင် git branch -d branchname နဲ့ဖျတ်
+git fetch
