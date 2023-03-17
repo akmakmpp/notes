@@ -33,3 +33,5 @@ d rwx(user) r-x(group) r-x(other user)
 sudo chmod -R 744
 
 -- rwx r-- r--
+
+rm -rf foldername
