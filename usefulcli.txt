@@ -6,6 +6,7 @@ man(lunix, mac)/--help
 touch filenam.extensionname
 mkdir foldername
 mv ရွေ့ ချင်တဲ့ ဖိုင် ရွေ့ ချင်တဲ့ ဖိုဒါ ပေး (cut လုပ်ပြီး ရွေ့ တာ)
+mv originalfilename newfilename
 cd .. (2ခါဆို cd ../..)
 cp copy ကူးချင်တဲ့ ဖိုင်  copy ကူးတာ ထားမည့် ဖိုဒါ
 rm file name(file delete)
